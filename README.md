@@ -15,6 +15,8 @@
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email! I'll try to respond as soon as I can.
 ⚡ fun fact : With slicing, it’s easier to reverse a list
+
+
 If you're still reading, why not follow me ?? Let's Connect !!
 ---
 
