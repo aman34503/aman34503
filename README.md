@@ -10,10 +10,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science, and developing Web Applications using Node.js and React.\
+🎓 &nbsp;I'm currently studying Computer Science, and developing Web Applications using django and React.\
 🌱 &nbsp;I'm on track for learning about Systems Design, Data Structures and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email! I'll try to respond as soon as I can.\
+🧸 pronouns : he/him
 ⚡ fun fact : With slicing, it’s easier to reverse a list\
                if you are still reading why not follow me!! 
                               Let's Connect!
