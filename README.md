@@ -5,9 +5,13 @@
   <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=&color=3CF718&size=30&center=true&vCenter=true&width=800&height=100&lines=Hello+World!;I'm+Aman+%F0%9F%91%8B">
 </p>
 
+<br>
+
 <p align="left"> <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=parasg1999&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B" alt="parasg1999" /> </p>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+---
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -21,12 +25,12 @@
                if you are still reading why not follow me!! \
                               Let's Connect!😊
 
-
-
 ---
 
   
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif"/>
+<img align = "right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif"/>
+
+
 
 ### 🛠 &nbsp;Languages and Tools
 
