@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Aman Shrivastava](https://aman04.netlify.app/)
+
 <br>
 <img align="right" src = "https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
 <p align="center">
