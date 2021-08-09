@@ -1,10 +1,8 @@
 ## Hey 👋, I'm [Aman Shrivastava](https://aman04.netlify.app/)
 <br>
 <img align="right" src = "https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-
-
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=&color=3CF718&size=30&center=true&vCenter=true&width=800&height=100&lines=Hello+World!;I'm+Aman Shrivastava+%F0%9F%91%8B">
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=&color=3CF718&size=30&center=true&vCenter=true&width=800&height=100&lines=Hello+World!;I'm+Aman+%F0%9F%91%8B">
 </p>
 
 <p align="left"> <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=parasg1999&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B" alt="parasg1999" /> </p>
