@@ -7,9 +7,9 @@
 
 <br>
 
-<p align="left"> <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=parasg1999&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B" alt="parasg1999" /> </p>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+
 
 ---
 
