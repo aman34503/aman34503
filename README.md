@@ -55,6 +55,10 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 <hr/>
+### ⚡ GitHub Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aman34503&theme=nightowl&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+
+<hr/>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
