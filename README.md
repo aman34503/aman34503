@@ -25,10 +25,10 @@
                if you are still reading why not follow me!! \
                               Let's Connect!😊
 
----
 
+<hr />
   
-<img align = "right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif"/>
+<img align = "right" alt="Coder GIF" height=200 width=300 src="https://magiccopy.xyz/assets/images/hadder.gif"/>
 
 
 
@@ -51,13 +51,17 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
+
+
 <hr/>
+
 ### ⚡ GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aman34503&theme=nightowl&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+[![Aman GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aman34503&theme=nightowl&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+
+
 
 <hr/>
 
