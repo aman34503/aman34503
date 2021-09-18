@@ -17,7 +17,12 @@
 🧸 pronouns : he/him\
 ⚡ fun fact : With slicing, it’s easier to reverse a list\
 
-<hr> 
+ ## Github Stats
+
+
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman34503&show_icons=true&theme=radical)
+
+<hr>
 
 
 ## ⚡ Technologies
@@ -50,12 +55,7 @@
 
 <hr/>
 
-### ⚡ GitHub Stats:
 
-[![Aman GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aman34503&theme=nightowl&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
-
-
-<hr/>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
