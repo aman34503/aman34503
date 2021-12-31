@@ -14,29 +14,4 @@
 
 <a href="aman34503@gmail.com"><img align="left" alt="Aman's MailID" width="72px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 
-<br>
-
-**👨🏻‍💻 About Me**
-
-- 🏢 I'm currently working on improving my **Debugging and ProblemSolving Skills**
-- ⚙️ I use daily: `.js`, `.cpp`, `.html`, `.css`, `.py`, `.md`
-- 🌍 I'm active within the **Community** **Hackathons** **Coding Contests**
-- 🌱 Learning all about **Backend Devlopment and System Design**
-- 💬 Ping me about **OPEN SOURCE**, **Tech Related Stuff**, **Competitive Programming**, **development**, **design thinking**
-- 📫 Reach me: [linkedin.com/aman](www.linkedin.com/in/aman-shrivastava04)
-- ⚡️ Fun fact: when i am free, i write Jokes.
- 
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-#### Github Stats.
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman34503&show_icons=true&theme=radical)
+![Metrics](https://metrics.lecoq.io/aman34503?template=terminal&languages=1&introduction=1&gists=1&achievements=1&repositories=1&isocalendar=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta&config.twemoji=true)
