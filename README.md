@@ -30,6 +30,9 @@ I am Aman Shrivastava. my passion for software lies with dreaming up ideas and m
 </p>
 
    <!--START_SECTION:waka-->
+   <!-- ---------------------------------------------------------------------------------------- -->
+   <details>
+  <summary><b>🌙 My WorkFlow</b></summary>
 **I'm a Night 🦉** 
 
 ```text
@@ -49,9 +52,55 @@ Friday       32 commits     ██░░░░░░░░░░░░░░░�
 Saturday     79 commits     █████░░░░░░░░░░░░░░░░░░░░   22.44% 
 Sunday       90 commits     ██████░░░░░░░░░░░░░░░░░░░   25.57%
 ```
+   </details>
    
    
-   
+<details>
+  <summary><b>⚡ GitHub Stats</b></summary>
+     <br />
+     <div>
+     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=aman34503&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+     <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman34503&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+</div>
+     </details>
+ 
+ 
+<!-- ---------------------------------------------------------------------------------------- -->
+
+<details>	
+  <summary><b>☄️ GitHub Streaks</b></summary>
+     <br />
+     <div>
+     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aman34503&theme=react&border=61dafb&hide_border=true" />
+    </a>
+     </div>
+</details>
+
+<!-- ---------------------------------------------------------------------------------------- -->
+
+<details>
+     <summary><b>📊 GitHub Graphs </b></summary>
+     <br />
+     <div>
+          <img src="https://activity-graph.herokuapp.com/graph?username=aman34503&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+     </div>
+</details>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+#
+
+<div align="center">
+     
+### Show some ❤️ by starring some of the repositories!
+     
+     
+</div>
    
    
    
