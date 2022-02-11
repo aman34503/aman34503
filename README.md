@@ -20,7 +20,7 @@ I am Aman Shrivastava. my passion for software lies with dreaming up ideas and m
 💼 any freelance work? do reach, email :)
 <br>
 💬 ask me about anything, i am happy to help;
-
+<!-- 
 ### 🔨 Languages and Tools:
 
 <p align="center">
@@ -100,7 +100,7 @@ Sunday       96 commits     ██████░░░░░░░░░░░�
 ### Show some ❤️ by starring some of the repositories!
      
      
-</div>
+</div> -->
    
    
    
