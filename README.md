@@ -7,7 +7,7 @@
 npx aman34503
 ```
 ```
-Aman Shrivastava / aman34503 / aman04.com
+Aman Shrivastava / aman34503 / aman04.netlify.app
          Work: Fullstack Web Devloper
        Github: aman34503
       Twitter: @aman
