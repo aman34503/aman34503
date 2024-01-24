@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://imgs.xkcd.com/comics/time_machine.png" alt="Time Machine">
-</p>
 
 
 ```bash
